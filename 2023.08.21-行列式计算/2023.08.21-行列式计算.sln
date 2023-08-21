@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2023.08.21-行列式计算", "2023.08.21-行列式计算.vcxproj", "{8EE89C14-8522-4FC9-BE35-41587BD3B874}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EE89C14-8522-4FC9-BE35-41587BD3B874}.Debug|x64.ActiveCfg = Debug|x64
+		{8EE89C14-8522-4FC9-BE35-41587BD3B874}.Debug|x64.Build.0 = Debug|x64
+		{8EE89C14-8522-4FC9-BE35-41587BD3B874}.Debug|x86.ActiveCfg = Debug|Win32
+		{8EE89C14-8522-4FC9-BE35-41587BD3B874}.Debug|x86.Build.0 = Debug|Win32
+		{8EE89C14-8522-4FC9-BE35-41587BD3B874}.Release|x64.ActiveCfg = Release|x64
+		{8EE89C14-8522-4FC9-BE35-41587BD3B874}.Release|x64.Build.0 = Release|x64
+		{8EE89C14-8522-4FC9-BE35-41587BD3B874}.Release|x86.ActiveCfg = Release|Win32
+		{8EE89C14-8522-4FC9-BE35-41587BD3B874}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A562906B-87F6-4FBC-823D-FC8D6258371B}
+	EndGlobalSection
+EndGlobal
